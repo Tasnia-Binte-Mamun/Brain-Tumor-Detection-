@@ -15,7 +15,7 @@ For proper detection of tumor region, following operations are performed:
 
 <img src="https://github.com/user-attachments/assets/87e95fad-64c0-4ef0-99c6-3d08177f9f10" alt="Image" width="300" height="200"/>
 
-Filtering to remove noise
+#### Filtering to remove noise
 
 <img src="https://github.com/user-attachments/assets/3814db1b-de63-41dd-b13f-7eb1c2c15e5c" alt="Image" width="280" height="150"/>
 
