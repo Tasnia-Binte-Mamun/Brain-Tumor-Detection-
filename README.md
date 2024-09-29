@@ -18,6 +18,7 @@ Edge detection using Sobel, Prewitt and Canny filter
 Filtering to remove noise
 
 <img src="https://github.com/user-attachments/assets/3814db1b-de63-41dd-b13f-7eb1c2c15e5c" alt="Image" width="280" height="150"/>
+<img src="https://github.com/user-attachments/assets/586671d2-d4dd-442f-bc86-7de466d81e2a" alt="Image" width="150" height="150"/>
 
 #### Segmentation is done in three following ways:
 
