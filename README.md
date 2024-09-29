@@ -28,7 +28,7 @@ For proper detection of tumor region, following operations are performed:
 
 2. Segmentation using k means clustering
 
-<img src="https://github.com/user-attachments/assets/c4f2c79b-326a-458a-a495-b0052fcca251" alt="Image" width="400" height="100"/>
+<img src="https://github.com/user-attachments/assets/c4f2c79b-326a-458a-a495-b0052fcca251" alt="Image" width="600" height="150"/>
 
 4. Segmentation using region growing algorithm
 
