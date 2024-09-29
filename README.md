@@ -23,7 +23,7 @@ Filtering to remove noise
 
 1. Segmentation using thresholding technique (Manual segmentation and obtaining tumor outline)
 
-<img src="https://github.com/user-attachments/assets/bba55398-99a5-44c7-81be-1a1091112ce8" alt="Image" width="300" height="150"/>
+<img src="https://github.com/user-attachments/assets/bba55398-99a5-44c7-81be-1a1091112ce8" alt="Image" width="350" height="150"/>
 
 2. Segmentation using k means clustering
 
