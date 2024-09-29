@@ -30,6 +30,12 @@ For proper detection of tumor region, following operations are performed:
 
 <img src="https://github.com/user-attachments/assets/c4f2c79b-326a-458a-a495-b0052fcca251" alt="Image" width="700" height="150"/>
 
-4. Segmentation using region growing algorithm
+3. Segmentation using region growing algorithm
+
+<img src="https://github.com/user-attachments/assets/e279633a-3457-4de4-bc5c-d368ca52d748" alt="Image" width="150" height="150"/>
+<img src="https://github.com/user-attachments/assets/0aa55b92-4c85-4246-8222-e619a4e1fa8d" alt="Image" width="150" height="150"/>
+<img src="https://github.com/user-attachments/assets/f98923dd-30c6-4b3a-952a-95586d38f4e0" alt="Image" width="150" height="150"/>
 
 ### GUI interface
+
+<img src="https://github.com/user-attachments/assets/adbfe27e-3162-42fa-be76-cdf0c3436055" alt="Image" width="700" height="200"/>
