@@ -17,6 +17,8 @@ Edge detection using Sobel, Prewitt and Canny filter
 
 Filtering to remove noise
 
+<img src="https://github.com/user-attachments/assets/3814db1b-de63-41dd-b13f-7eb1c2c15e5c" alt="Image" width="200" height="200"/>
+
 #### Segmentation is done in three following ways:
 
 1. Segmentation using thresholding technique (Manual segmentation and obtaining tumor outline)
