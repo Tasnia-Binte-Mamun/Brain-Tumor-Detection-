@@ -13,7 +13,7 @@ Performing Image Enhancement
 
 Edge detection using Sobel, Prewitt and Canny filter
 
-<img src="https://github.com/user-attachments/assets/87e95fad-64c0-4ef0-99c6-3d08177f9f10" alt="Image" width="300" height="200"/>
+<img src="https://github.com/user-attachments/assets/87e95fad-64c0-4ef0-99c6-3d08177f9f10" alt="Image" width="350" height="200"/>
 
 Filtering to remove noise
 
