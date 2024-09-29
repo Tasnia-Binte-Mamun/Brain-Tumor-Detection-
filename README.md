@@ -9,6 +9,8 @@ Loading MRI Image and Converting to Grayscale
 
 Performing Image Enhancement 
 
+<img src="https://github.com/user-attachments/assets/6b3a57ee-b42a-4caa-9ce6-4e9cd46afd9d" alt="Image" width="120" height="120"/>
+
 Edge detection using Sobel, Prewitt and Canny filter 
 
 Filtering to remove noise
