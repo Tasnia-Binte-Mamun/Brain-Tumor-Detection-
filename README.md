@@ -1,4 +1,5 @@
 ## Brain Tumor Detection Based on Segmentation using MATLAB
+![Image](https://github.com/user-attachments/assets/b0d88e4c-6caa-43da-a8e7-f67549020bde)
 
 For proper detection of tumor region, following operations are performed:
 
